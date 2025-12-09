@@ -1,3 +1,5 @@
+'use strict';
+
 let getNum = prompt("Enter number 0 - 7");
 
 switch (getNum) {
